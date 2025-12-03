@@ -15,9 +15,13 @@
 - Collected feedback from early testers
 
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Co-Founder & Product Manager @ [Scholora](https://scholora.ma/) (_May 2025 - Present_)**
+- Led problem discovery: Identified core challenges faced by users and prioritized solutions with the highest impact.
+- Designed product and core features: Defined the MVP and feature set to meet user needs and validate the concept.
+- Managed daily operations: Coordinated closely with the technical co-founder to ensure smooth development and execution.
+- Secured early investor interest: Engaged potential pre-seed investors to validate market potential.
+- Engaged directly with clients: Conducted interviews, gathered feedback, and iterated on the product based on real user insights.
+  
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
