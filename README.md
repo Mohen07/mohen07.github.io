@@ -3,9 +3,9 @@
 #### I’m Mohsen (23), a self-taught founder from Morocco with one obsession: building what matters, faster than anyone else. I left university multiple times because I realized real learning happens in the trenches, not in classrooms.
 
 ## Education
-- Dropped Out, CS |The University of Suptechnology (_May 2022_)								       		
-- Dropped Out, Economics	|FSJSC  (_December 2023_)
-- GapYear, SatPrep |Scholarship canceled due to bureaucracy (_May 2024_)
+- Dropped Out, CS | The University of Suptechnology (_May 2022_)								       		
+- Dropped Out, Economics	| Faculty of Law, Economics, and Social Sciences (_December 2023_)
+- Gap, SatPrep | Scholarship canceled due to bureaucracy (_May 2024_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
