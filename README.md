@@ -3,9 +3,9 @@
 #### I’m Mohsen (23), a self-taught founder from Morocco with one obsession: building what matters, faster than anyone else. I left university multiple times because I realized real learning happens in the trenches, not in classrooms.
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Dropped Out, CS | The University of Suptechnology (_May 2022_)								       		
+- Dropped Out, Economics	| FSJES  (_December 2023_)	 			        		
+- Gap Year, SAT | Scored 1080 on first try; scholarship canceled due to bureaucracy (_May 2024_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
