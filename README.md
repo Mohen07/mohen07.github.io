@@ -1,6 +1,6 @@
-# Data Scientist
+# About Me
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### I’m Mohsen (23), a self-taught founder from Morocco with one obsession: building what matters, faster than anyone else. I left university multiple times because I realized real learning happens in the trenches, not in classrooms.
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
