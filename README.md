@@ -25,8 +25,9 @@
 
 ## Skills
 **Product & Execution:** MVP Design & Launch • Product Discovery • Market Validation • Roadmap Planning • Customer Acquisition
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+**Leadership & Operations:** Team Leadership • Daily Operations • Agile Iteration • Problem-Solving
+**Entrepreneurship & Business:** Investor Pitching • Early-Stage Fundraising • Business Model Validation • User Research
+**Technical & Tools:** Product Management • Automation & Workflow • Basic Software Development Understanding (APIs, SaaS integrations) • Data Analysis & Insights (Excel, Google Sheets, basic SQL) • Prototyping & MVP Validation
 
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
